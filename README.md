@@ -1,2 +1,2 @@
-# RuthVianey.github.io
-Ejemplo de un sitio
+# rickmrdwp.github.io
+Ejemplo de autenticación con Firebase y Google.
